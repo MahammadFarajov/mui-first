@@ -62,7 +62,7 @@ function App() {
               <Typography><Check /> Lorem ipsum dolmaxime officiis or sit amet consectetur adipisicing. </Typography>
               <Typography><Check /> Lorem ipsum dolor sit amet. </Typography>
               <Typography><Check /> Lorem, ipsum. </Typography>
-              <Typography><Check /> Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor alias nisi beatae maxime officiis quam magnam.. </Typography>
+              <Typography><Check /> Lorem ipsum dolor sit amet consectetur adipisicing elit.</Typography>
               <Typography><Check /> beatae maxime officiis quam magnam.. </Typography>
               <Typography><Check /> Loremalias nisi , ipsum dolor. </Typography>
             </Box>
