@@ -52,7 +52,7 @@ function App() {
         <Box sx={{mt: 5}}>
           <Typography sx={{textAlign: 'center', color: 'customblack.main'}} variant="h3">Product Information</Typography>
           <Typography sx={{textAlign: 'center', color: 'customblack.main', mb: 5,}} variant="h6">Our Window has simple but durable system Lorem ipsum dolor sit amet.</Typography>
-          <Box sx={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+          <Box sx={{display: 'flex', alignItems: 'center', justifyContent: 'space-between',}}>
             <img src={window} alt="" />
             <Box sx={{display: "flex", flexDirection: "column", gap: 1,}}>
               <Typography><Check /> Lorem, ipsum dolor. </Typography>
